@@ -1,4 +1,4 @@
-# Python-week2
+# Python-week2 & 3
 
 WEEK 2 Python
 
